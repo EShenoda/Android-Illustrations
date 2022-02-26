@@ -127,3 +127,29 @@ __Topics of Research__
 </p>
 
 
+### Android TV
+
+__Main concepts__: Customize starter application, add custom data with rows and columns. Self research code explanation.
+
+Topics of research:
+
+* Card Presenter
+* DetailsDescriptionPresenter
+* BrowseSupportFragment
+* GridItemPresenter
+* ArrayObjectAdapter
+* MovieLists
+
+
+<p align="center">
+  <img src= "Images/TV-1.gif" height=300>
+</p>
+
+
+<p align="center">
+  <img src= "Images/TV-2.gif" height=300>
+</p>
+
+<p align="center">
+  <img src= "Images/TV-3.gif" height=300>
+</p>
