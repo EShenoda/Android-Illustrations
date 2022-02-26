@@ -13,8 +13,11 @@ Topics of research
 * Wiget Utilities
 
 <p align="center">
+  <img src= "Images/CE03-1.gif" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
 <img src= "Images/CE03-2.gif" height=350>
 </p>
+
 
 ### Collection Widgets
 
