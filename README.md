@@ -41,4 +41,4 @@ __Stack View Widget__:
 <p align="center">
   <img src= "Images/CE04-3.gif" height=350>
 </p>
-# Android-Illustrations
+
