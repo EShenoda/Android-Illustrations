@@ -63,3 +63,67 @@ __Stack View Widget__:
   <img src= "Images/CE04-3.gif" height=350>
 </p>
 
+## Portfolio Project Overview
+
+App Name: __What's for Dinner__
+
+__Main concepts__
+
+* Provide dinner suggestions based on the user's search criteria.
+* Provide cooking instructions and a favorites list.
+* Provide up to 20 restaurant locations based on the user's GPS location.
+* Provide directions to restaurants with Google Maps Navigation.
+
+
+__Topics of Research__
+
+* Google Firebase Firestore
+* Google Maps SDK
+* OkHttp Requests
+* Spoonacular's Food-Recipe-Nutrition Database
+* NearbyPlace's API
+* Android Navigation: Top level navigation
+* Android Bottom Sheet Dialog
+
+
+### Prototype
+
+<img src= "Images/Prototype.png" height= 350>
+
+<p align="center">
+  <img src= "Images/Two.gif" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Three.gif" height=350>
+</p>
+
+
+
+<p align="center">
+  <img src= "Images/Four.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Five.png" height=350>
+</p>
+
+
+
+<p align="center">
+  <img src= "Images/Six.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Seven.png" height=350>
+</p>
+
+
+<p align="center">
+  <img src= "Images/Eight.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Nine.png" height=350>
+</p>
+
+
+<p align="center">
+  <img src= "Images/Ten.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Eleven.png" height=350>
+</p>
+
+
