@@ -1,5 +1,23 @@
 # Android Illustrations
 
+### Download Service
+
+__Main concept__: Build an application that utilizes a Worker to download images on a background thread and a BroadcastReceiver to update the UI with the newly downloaded images.
+
+
+Topics of research:
+
+* Workers
+* Broadcast Receivers
+* Work Requests & Constraints
+* Protected Storage
+* IOUtils Library
+* Bitmaps
+
+<p align="center">
+  <img src= "Images/Download.gif" height=350>
+</p>
+
 ### Home Screen Widgets
 
 __Main concept__: Create a home screen widget that shows weather data. The data is updated every 30 minutes with the most current weather. If no internet connection is available, display the last known weather from a SQLite database. The widget should contain a configuration activity to change the weather location and widget theme. The widget will also display a weekly weather forecast when the widget's weather icon is pressed.
