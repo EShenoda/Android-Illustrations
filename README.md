@@ -99,7 +99,7 @@ __Topics of Research__
 
 
 <p align="center">
-  <img src= "Images/Four.png" height=350>
+  <img src= "Images/Four.gif" height=350>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
 <img src= "Images/Five.png" height=350>
 </p>
@@ -109,21 +109,21 @@ __Topics of Research__
 <p align="center">
   <img src= "Images/Six.png" height=350>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
-<img src= "Images/Seven.png" height=350>
+<img src= "Images/Seven.gif" height=350>
 </p>
 
 
 <p align="center">
-  <img src= "Images/Eight.png" height=350>
+  <img src= "Images/Eight.gif" height=350>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
-<img src= "Images/Nine.png" height=350>
+<img src= "Images/Nine.gif" height=350>
 </p>
 
 
 <p align="center">
-  <img src= "Images/Ten.png" height=350>
+  <img src= "Images/Ten.gif" height=350>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
-<img src= "Images/Eleven.png" height=350>
+<img src= "Images/Eleven.gif" height=350>
 </p>
 
 
