@@ -2,7 +2,7 @@
 
 ### Download Service
 
-__Main concept__: Build an application that utilizes a Worker to download images on a background thread and a BroadcastReceiver to update the UI with the newly downloaded images.
+__Main concept__: Build an application that utilizes a Worker to download images on a background thread. Create a BroadcastReceiver to communicate to the main thread and update the UI with the newly downloaded images. Downsize the large images by converting them to bitmaps to prevent an out of memory exception.
 
 
 Topics of research:
