@@ -153,15 +153,22 @@ Topics of research:
 * ArrayObjectAdapter
 * MovieLists
 
+<br>
+<br>
 
 <p align="center">
   <img src= "Images/TV-1.gif" height=300>
 </p>
 
+<br>
+<br>
 
 <p align="center">
   <img src= "Images/TV-2.gif" height=300>
 </p>
+
+<br>
+<br>
 
 <p align="center">
   <img src= "Images/TV-3.gif" height=300>
