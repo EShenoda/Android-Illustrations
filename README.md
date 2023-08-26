@@ -126,11 +126,14 @@ __Topics of Research__
 <br>
 
 <p align="center">
-  <img src= "Images/Seven.png" height=350>
+	<img src= "Images/Seven.gif" height=350>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
-<img src= "Images/Six.gif" height=350>
+<img src= "Images/Six.png" height=350>
 </p>
 
+
+<br>
+<br>
 
 <p align="center">
   <img src= "Images/Two.gif" height=350>
