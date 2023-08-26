@@ -119,6 +119,9 @@ __Topics of Research__
 
 ### Prototype
 
+<img src= "Images/Prototype.png" height= 350>
+
+
 <br>
 <br>
 
@@ -128,11 +131,6 @@ __Topics of Research__
 <img src= "Images/Six.gif" height=350>
 </p>
 
-
-<img src= "Images/Prototype.png" height= 350>
-
-<br>
-<br>
 
 <p align="center">
   <img src= "Images/Two.gif" height=350>
