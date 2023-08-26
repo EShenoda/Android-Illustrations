@@ -31,6 +31,9 @@ Topics of research:
   <img src= "Images/Download.gif" height=350>
 </p>
 
+<br>
+<br>
+
 ### Home Screen Widgets
 
 __Main concept__: Create a home screen widget that shows weather data. The data is updated every 30 minutes with the most current weather. If no internet connection is available, display the last known weather from a SQLite database. The widget should contain a configuration activity to change the weather location and widget theme. The widget will also display a weekly weather forecast when the widget's weather icon is pressed.
@@ -48,6 +51,9 @@ Topics of research
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
 <img src= "Images/CE03-2.gif" height=350>
 </p>
+
+<br>
+<br>
 
 
 ### Collection Widgets
