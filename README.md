@@ -76,6 +76,9 @@ __Stack View Widget__:
   <img src= "Images/CE04-3.gif" height=350>
 </p>
 
+<br>
+<br>
+
 ## Portfolio Project Overview
 
 App Name: __What's for Dinner__
@@ -107,6 +110,9 @@ __Topics of Research__
 ### Prototype
 
 <img src= "Images/Prototype.png" height= 350>
+
+<br>
+<br>
 
 <p align="center">
   <img src= "Images/Two.gif" height=350>
@@ -149,6 +155,9 @@ __Topics of Research__
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
 <img src= "Images/Eleven.gif" height=350>
 </p>
+
+<br>
+<br>
 
 
 ### Android TV
