@@ -69,6 +69,10 @@ Topics of research:
 * Accessing Media Store Images & Content URI's
 * Decoding & Resizing Bitmaps
 
+<br>
+<br>
+
+
 __Flipper View Widget__:
 
 <p align="center">
