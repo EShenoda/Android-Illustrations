@@ -80,6 +80,9 @@ __Stack View Widget__:
 
 App Name: __What's for Dinner__
 
+<br>
+
+
 __Main concepts__
 
 * Provide dinner suggestions based on the user's search criteria.
@@ -87,6 +90,7 @@ __Main concepts__
 * Provide up to 20 restaurant locations based on the user's GPS location.
 * Provide directions to restaurants with Google Maps Navigation.
 
+<br>
 
 __Topics of Research__
 
@@ -98,6 +102,7 @@ __Topics of Research__
 * Android Navigation: Top level navigation
 * Android Bottom Sheet Dialog
 
+<br>
 
 ### Prototype
 
@@ -109,7 +114,8 @@ __Topics of Research__
 <img src= "Images/Three.gif" height=350>
 </p>
 
-
+<br>
+<br>
 
 <p align="center">
   <img src= "Images/Four.gif" height=350>
@@ -117,7 +123,8 @@ __Topics of Research__
 <img src= "Images/Five.png" height=350>
 </p>
 
-
+<br>
+<br>
 
 <p align="center">
   <img src= "Images/Six.png" height=350>
@@ -125,6 +132,8 @@ __Topics of Research__
 <img src= "Images/Seven.gif" height=350>
 </p>
 
+<br>
+<br>
 
 <p align="center">
   <img src= "Images/Eight.gif" height=350>
@@ -132,6 +141,8 @@ __Topics of Research__
 <img src= "Images/Nine.gif" height=350>
 </p>
 
+<br>
+<br>
 
 <p align="center">
   <img src= "Images/Ten.gif" height=350>
