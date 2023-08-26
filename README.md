@@ -1,6 +1,6 @@
 # Android Illustrations
 
-## Please allow a few minutes for GIFS to load. 
+## Please allow a few minutes for GIFs to load. 
 
 ### Download Service
 
