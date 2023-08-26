@@ -119,6 +119,16 @@ __Topics of Research__
 
 ### Prototype
 
+<br>
+<br>
+
+<p align="center">
+  <img src= "Images/Seven.png" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Six.gif" height=350>
+</p>
+
+
 <img src= "Images/Prototype.png" height= 350>
 
 <br>
@@ -139,14 +149,6 @@ __Topics of Research__
 <img src= "Images/Five.png" height=350>
 </p>
 
-<br>
-<br>
-
-<p align="center">
-  <img src= "Images/Six.png" height=350>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
-<img src= "Images/Seven.gif" height=350>
-</p>
 
 <br>
 <br>
