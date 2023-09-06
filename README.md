@@ -5,7 +5,7 @@
 
 ## Table of contents
 * [Download Service](#download-service)
-* [Homescreen Widgets](#homescreen-widgets)
+* [Home Screen Widgets](#home-screen-widgets)
 * [Collection Widgets](#collection-widgets)
 * [Android TV](#android-tv)
 * [Copyright](#copyright)
@@ -148,4 +148,6 @@ All rights reserved: EmilShenoda@FullSailUniversity
 
 ## Contact
 Created by [Emil Shenoda](mailto:EmilShenodaDev@gmail.com) - feel free to contact me!
+
+[Back to top](#android-illustrations)
 
