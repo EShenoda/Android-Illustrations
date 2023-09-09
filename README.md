@@ -130,12 +130,12 @@ Topics of research:
 </p>
 
 <br>
+<br>
 
 ## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations-II)
 
 ## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
 
-<br>
 
 ##  Copyright
 Private Repo for EmilShenodaDev@gmail.com
