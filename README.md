@@ -68,7 +68,7 @@ Topics of research
 
 ### Collection Widgets
 
-__Main concept__: Build an application that shows images that are stored on the device. The application will also contain two widgets which show the images from the device in two different ways. The user should be able to select an image from either the app or the widgets to view the full size images in the built-in image viewer app.
+__Main concept__: Build an application that displays images from the user's gallery. The application will also contain two widgets which show the images from the device in two different ways. The user should be able to select an image from either the app or the widgets to view the full size images in the built-in image viewer app.
 
 
 Topics of research:
@@ -103,7 +103,7 @@ __Stack View Widget__:
 
 ### Android TV
 
-__Main concepts__: Customize starter application, add custom data with rows and columns. Self research code explanation.
+__Main concepts__: Customize a starter application to display custom data containing rows and columns. Self research the topics below.
 
 Topics of research:
 
