@@ -11,17 +11,11 @@
 * [Copyright](#copyright)
 * [Contact](#contact)
 
-
-<br>
 <br>
 
 <h2 align="center">** Please allow a few minutes for GIFs to load ** <br> Thank you so much</h3>
 
-
-
 <br>
-<br>
-
 
 ### Download Service
 
@@ -137,7 +131,11 @@ Topics of research:
 
 <br>
 
-## [Click Here For More Android Illustrations](https://github.com/EShenoda/Android-Illustrations-II)
+## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations-II)
+
+## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
+
+<br>
 
 ##  Copyright
 Private Repo for EmilShenodaDev@gmail.com
