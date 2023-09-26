@@ -8,6 +8,7 @@
 * [Home Screen Widgets](#home-screen-widgets)
 * [Collection Widgets](#collection-widgets)
 * [Android TV](#android-tv)
+* [Quick-Links](#quick-links)
 * [Copyright](#copyright)
 * [Contact](#contact)
 
@@ -130,11 +131,14 @@ Topics of research:
 </p>
 
 <br>
-<br>
 
-## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations-II)
+## Quick Links
 
-## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
+### [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations-II)
+
+### [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
+
+### [Click Here to View iOS Illustrations using SwiftUI](https://github.com/EShenoda/SwiftUI)
 
 
 ##  Copyright
